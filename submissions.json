@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Equifax Data Breach and Apache Vulnerability Exploitation",
+    "description": "Consumer credit reporting web application using Apache Struts framework to process sensitive personal data for 147 million consumers.",
+    "objectives": "Patch all critical vulnerabilities within 48 hours, and implement automated vulnerability scanning with zero tolerance for high-risk components.",
+    "roles": "Security Auditor",
+    "standards": "OWASP Guidelines",
+    "test_plan": "Automated vulnerability scans, monthly penetration testing, dependency security validation, and Apache Struts specific CVE testing.",
+    "defect_management": "Critical security bugs escalated to CISO with 24-hour patch requirement, automated ticketing system, and immediate incident response activation.",
+    "reviews": "Monthly security architecture reviews, quarterly third-party component assessments, and annual compliance audits.",
+    "supplier_control": "Mandatory security certifications and real-time monitoring of vendor security advisories.",
+    "references": "https://www.ftc.gov/enforcement/cases-proceedings/refunds/equifax-data-breach-settlement",
+    "purpose": "Prevent data breaches caused by unpatched third-party component vulnerabilities through proactive security governance and rapid response capabilities."
+  },
+  {
+    "title": "Equifax Data Breach and Apache Vulnerability Exploitation",
+    "description": "Consumer credit reporting web application using Apache Struts framework to process sensitive personal data for 147 million consumers.",
+    "objectives": "Patch all critical vulnerabilities within 48 hours, and implement automated vulnerability scanning with zero tolerance for high-risk components.",
+    "roles": "Security Auditor",
+    "standards": "OWASP Guidelines",
+    "test_plan": "Automated vulnerability scans, monthly penetration testing, dependency security validation, and Apache Struts specific CVE testing.",
+    "defect_management": "Critical security bugs escalated to CISO with 24-hour patch requirement, automated ticketing system, and immediate incident response activation.",
+    "reviews": "Monthly security architecture reviews, quarterly third-party component assessments, and annual compliance audits.",
+    "supplier_control": "Mandatory security certifications and real-time monitoring of vendor security advisories.",
+    "references": "https://owasp.org/www-project-top-ten/2017/A9_2017-Using_Components_with_Known_Vulnerabilities, \r\nhttps://nvd.nist.gov/vuln/detail/CVE-2017-5638, \r\nhttps://www.ftc.gov/enforcement/cases-proceedings/refunds/equifax-data-breach-settlement\r\n",
+    "purpose": "Prevent data breaches caused by unpatched third-party component vulnerabilities through proactive security governance and rapid response capabilities."
+  }
+]
